@@ -20,5 +20,5 @@ VisCello
 
 ### Reference
 ---------
-Miao, Zhen, et al. "Single cell resolution regulatory landscape of the mouse kidney highlights cellular differentiation programs and renal disease targets." bioRxiv (2020).
+Miao, Zhen, Balzer, Michael, et al. "Single cell resolution regulatory landscape of the mouse kidney highlights cellular differentiation programs and renal disease targets." bioRxiv (2020).
 
