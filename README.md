@@ -1,7 +1,7 @@
 # dev-kidney-snATAC
 
 
-Zhen Miao, Kim Lab & Susztak Lab, University of Pennsylvania
+Zhen Miao, Michael Balzer, Kim Lab & Susztak Lab, University of Pennsylvania
 
 
 
