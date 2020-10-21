@@ -9,13 +9,26 @@ Zhen Miao, Michael Balzer, Kim Lab & Susztak Lab, University of Pennsylvania
 The codes are based on R V.3.5.1. In addition, the following libraries will be required.
 
 ```
-SnapATAC
-Seurat
-ggplot2
-GenomicRanges
+AUCell
 biomaRt
+cowplot
+data.table
+doMC
+dplyr
+GenomicRanges
+ggplot2
+htmlwidgets
+monocle3
+OneR
+R2HTML
+rbokeh
+RColorBrewer
+RcisTarget
+SCENIC
+Seurat
+SnapATAC
+SoupX
 VisCello
-
 ```
 
 ### Reference
