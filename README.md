@@ -1,7 +1,7 @@
 # dev-kidney-snATAC
 
 
-Zhen Miao, Michael Balzer, Kim Lab & Susztak Lab, University of Pennsylvania
+Zhen Miao, Michael S. Balzer, Kim Lab & Susztak Lab, University of Pennsylvania
 
 
 
@@ -33,5 +33,5 @@ VisCello
 
 ### Reference
 ---------
-Miao, Z., Balzer, M.S., Ma, Z., Liu, H., Wu, J., Shrestha, R., Aranyi, T., Kwan, A., Kondo, A., Pontoglio, M. and Kim, J., 2020. "Single cell resolution regulatory landscape of the mouse kidney highlights cellular differentiation programs and renal disease targets". bioRxiv.
+Miao Z*, Balzer MS*, Ma Z*, Liu H, Wu J, Shrestha R, Aranyi T, Kwan A, Kondo A, Pontoglio M, Kim J, Li M, Kaestner KH, Susztak K. "Single cell regulatory landscape of the mouse kidney highlights cellular differentiation programs and disease targets". Nature Communications 12,2277 (2021), doi:10.1038/s41467-021-22266-1
 
